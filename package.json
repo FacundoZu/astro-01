@@ -9,8 +9,12 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@splinetool/viewer": "1.10.57",
     "@tailwindcss/vite": "^4.1.13",
     "astro": "^5.13.7",
     "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "0.5.16"
   }
 }
